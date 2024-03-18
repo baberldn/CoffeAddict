@@ -1,2 +1,2 @@
 # CoffeAddict
-https://baberldn.github.io/firstpage/
+https://baberldn.github.io/CoffeAddict/
